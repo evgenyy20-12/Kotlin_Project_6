@@ -42,7 +42,7 @@ NeuroStartUp — динамически развивающийся старта�
 Подсказка: Markdown-разметка для файла README.md
 # NeuroStartUp
 
-# ![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
+# ![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)1
 
 *NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искусственного интеллекта.
 
